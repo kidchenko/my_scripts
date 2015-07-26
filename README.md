@@ -1,2 +1,2 @@
 # my_scripts
-My scripts for (What i use in my routine)
+My scripts! (That i use in my routine)
